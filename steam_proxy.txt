@@ -1,0 +1,9 @@
+# 作用：捕获所有网页、社区、好友等小流量域名，确保核心功能稳定
+
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,steamstat.us
+DOMAIN-SUFFIX,steamusercontent.com

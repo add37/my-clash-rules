@@ -1,0 +1,10 @@
+# OKX
+- DOMAIN-SUFFIX,okx.com,DIRECT
+- DOMAIN-SUFFIX,okx.net,DIRECT
+
+# Binance
+- DOMAIN-SUFFIX,binance.com,DIRECT
+- DOMAIN-SUFFIX,binance.us,DIRECT
+- DOMAIN-SUFFIX,binance.co,DIRECT
+- DOMAIN-SUFFIX,bnbstatic.com,DIRECT
+- DOMAIN-SUFFIX,bnbsmartchain.com,DIRECT

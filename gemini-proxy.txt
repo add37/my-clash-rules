@@ -1,0 +1,13 @@
+payload:
+  # 1. 暴力关键词
+  - DOMAIN-KEYWORD,gemini
+  - DOMAIN-KEYWORD,generative
+  
+  # 2. 容易漏的 API 域名
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com
+  - DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN-SUFFIX,aistudio.google.com

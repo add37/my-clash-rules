@@ -11,3 +11,7 @@ payload:
   - DOMAIN-SUFFIX,deepmind.com
   - DOMAIN-SUFFIX,deepmind.google
   - DOMAIN-SUFFIX,aistudio.google.com
+  - DOMAIN-SUFFIX,clients6.google.com
+  - DOMAIN-KEYWORD,signaler-pa
+  - DOMAIN-KEYWORD,waa-pa
+  - DOMAIN-KEYWORD,optimizationguide

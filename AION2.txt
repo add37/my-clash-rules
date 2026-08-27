@@ -1,0 +1,6 @@
+DOMAIN-SUFFIX,ncupdate.com
+DOMAIN-SUFFIX,plaync.com
+DOMAIN-SUFFIX,ncsoft.com
+DOMAIN-SUFFIX,nc.com
+DOMAIN-KEYWORD,ncupdate
+DOMAIN-KEYWORD,plaync

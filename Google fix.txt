@@ -1,0 +1,10 @@
+# Google Play 大文件下载高速 CDN（拉大文件切片用）
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,xn--ngstr-cn-8za9o.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,play.googleapis.com
+DOMAIN-SUFFIX,1e100.net
+DOMAIN-SUFFIX,ggpht.com

@@ -1,0 +1,12 @@
+# 菲律宾 Maya 钱包相关
+DOMAIN-SUFFIX,maya.ph
+DOMAIN-KEYWORD,paymaya
+DOMAIN-KEYWORD,maya
+
+# 如果需要验证菲律宾住宅 IP，可取消下面两行的注释：
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,whoer.net
+
+# 如需强制 Google Pay 支付页面走菲律宾住宅，可按需启用：
+# DOMAIN,payments.google.com
+# DOMAIN,pay.google.com

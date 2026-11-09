@@ -1,0 +1,20 @@
+payload:
+  # 1. 核心世界大厅与长连接服 (41001 端口与子域)
+  - DOMAIN,publicgrnapac1.worldsvr.mho.garena.com
+  - DOMAIN-SUFFIX,worldsvr.mho.garena.com
+
+  # 2. 腾讯/天美消息 Broker 与 WebSocket 通信 (纠正直连误判)
+  - DOMAIN-SUFFIX,vasdgame.com
+  - DOMAIN-KEYWORD,vasdgame
+
+  # 3. Garena 运营服务、账户调度与资源通道
+  - DOMAIN-SUFFIX,mho.garena.com
+  - DOMAIN-SUFFIX,mhinf.cn
+  - DOMAIN-SUFFIX,garena.com
+
+  # 4. 关键标识关键词泛解析匹配
+  - DOMAIN-KEYWORD,worldsvr
+  - DOMAIN-KEYWORD,-mho-
+
+  # 5. 游戏专用长连接端口兜底
+  - DST-PORT,41001
